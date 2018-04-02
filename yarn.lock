@@ -6808,27 +6808,9 @@ rc@^1.0.1, rc@^1.1.6, rc@^1.1.7:
     minimist "^1.2.0"
     strip-json-comments "~2.0.1"
 
-react-chromatic@^0.8.1:
-  version "0.8.1"
-  resolved "https://registry.yarnpkg.com/react-chromatic/-/react-chromatic-0.8.1.tgz#dfec55b8e2064be4d68c94fe971984e7f4aa93dc"
-  dependencies:
-    apollo-fetch "^0.6.0"
-    babel-runtime "^6.26.0"
-    commander "^2.9.0"
-    debug "^3.0.1"
-    denodeify "^1.2.1"
-    ejson "^2.1.2"
-    es6-error "^4.0.2"
-    isomorphic-fetch "^2.2.1"
-    jsdom "^11.5.1"
-    jsonfile "^4.0.0"
-    localtunnel "^1.8.3"
-    node-ask "^1.0.1"
-    tree-kill "^1.1.0"
-
-react-chromatic@hichroma/react-chromatic#commit-b056f1983c646621981b4ae6f86268ead8d13260:
+react-chromatic@hichroma/react-chromatic#commit-fce5881987a8dd56c16372afc73101e1438f99f5:
   version "0.8.2-dev"
-  resolved "https://codeload.github.com/hichroma/react-chromatic/tar.gz/44dafe1aa36012f8689318dcadd8e9deeb246836"
+  resolved "https://codeload.github.com/hichroma/react-chromatic/tar.gz/ded4ec616a521d9443279eb04b266ed4238b94fa"
   dependencies:
     apollo-fetch "^0.6.0"
     babel-runtime "^6.26.0"
