@@ -7,14 +7,14 @@
     "react-dom": "^16.3.0"
   },
   "devDependencies": {
-    "react-chromatic": "^0.8.1",
-    "react-scripts": "1.1.1",
-    "@storybook/react": "^3.4.0",
     "@storybook/addon-actions": "^3.4.0",
     "@storybook/addon-links": "^3.4.0",
     "@storybook/addons": "^3.4.0",
+    "@storybook/react": "^3.4.0",
     "babel-core": "^6.26.0",
-    "babel-runtime": "^6.26.0"
+    "babel-runtime": "^6.26.0",
+    "react-chromatic": "hichroma/react-chromatic#commit-fce5881987a8dd56c16372afc73101e1438f99f5",
+    "react-scripts": "1.1.1"
   },
   "scripts": {
     "start": "react-scripts start",
