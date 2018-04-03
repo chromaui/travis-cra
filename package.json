@@ -13,7 +13,7 @@
     "@storybook/react": "^3.4.0",
     "babel-core": "^6.26.0",
     "babel-runtime": "^6.26.0",
-    "react-chromatic": "hichroma/react-chromatic#commit-fce5881987a8dd56c16372afc73101e1438f99f5",
+    "react-chromatic": "hichroma/react-chromatic#commit-94d6e543702bcf4acc24e5a5c2d6ea20bf12d867",
     "react-scripts": "1.1.1"
   },
   "scripts": {
